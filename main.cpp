@@ -1,4 +1,5 @@
 #include "extendedgcd.hpp"
+#include <iostream>
 
 int main() {
 	int a, b;
